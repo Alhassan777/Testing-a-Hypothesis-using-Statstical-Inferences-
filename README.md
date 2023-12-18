@@ -1,4 +1,4 @@
-# Testing-a-Hypothesis-using-Statstical-Inferences-
+# Exploratory Data Analysis and Statistical Inference on Income Disparities
 
 This Python project conducts a comprehensive analysis of income disparities between degree-holding Black and White individuals who underwent training. Specifically designed for technical internships, this project demonstrates proficiency in data manipulation, statistical analysis, and visualization.
 
